@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">praktikos-darbas-2</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="empty_input_field">Empty input field</string>
+    <string name="result_field_text_chars">Total chars : </string>
+    <string name="result_field_text_words">Total words : </string>
+    <string-array name="calculation_types">
+        <item>chars</item>
+        <item>words</item>
+    </string-array>
+</resources>
